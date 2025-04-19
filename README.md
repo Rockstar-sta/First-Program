@@ -1,2 +1,2 @@
 # First-Program
-Having good hands on Github
+Having good hands on Github.
